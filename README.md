@@ -1,7 +1,7 @@
 # Bézier
 This is a simple program that shows how Bézier curves are constructed
 
-Left clicking adds a point to the curve, right clicking clears all the points and mouse-wheel clicking ~~freezes the simulation~~ generates a curve made out of random points.
+Left clicking adds a point to the curve, right clicking clears all the points and mouse-wheel clicking generates a curve made out of ~~too many~~ random points.
 
 # Screenshots
 
